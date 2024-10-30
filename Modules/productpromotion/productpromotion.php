@@ -133,7 +133,7 @@ protected function getProductDetails($productId)
     );
 
     return [
-        'name' => $product->name,  // This might be the issue
+        'name' => $product->name, 
         'price' => Tools::displayPrice($product->price, $this->context->currency),
         'link' => $this->context->link->getProductLink($product),
         'image' => $imageUrl,
