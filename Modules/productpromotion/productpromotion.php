@@ -142,9 +142,7 @@ protected function getProductDetails($productId)
 
 
 
-    public function hookHeader($params)
-{
-    // Add your module's CSS file
+    public function 
     $this->context->controller->registerStylesheet(
         'module-productpromotion-style',
         'modules/'.$this->name.'/views/css/productpromotion.css',
