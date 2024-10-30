@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>motivationalquotes</name>
+    <displayName><![CDATA[Motivational Quotes]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Displays a random motivational quote on the homepage.]]></description>
+    <author><![CDATA[Khelifa Abdelkarim]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>

@@ -1,0 +1,7 @@
+<module>
+    <name>productpromotion</name>
+    <displayName>Product Promotion Banner</displayName>
+    <version>1.0.0</version>
+    <author>Khelifa Abdelkarim</author>
+    <description>Displays a promotional product banner on the homepage and product pages.</description>
+</module>
